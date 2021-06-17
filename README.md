@@ -10,11 +10,6 @@
 - 🥅 2021 Goals: I would like to have a certified bot on discord
 - ⚡ Fun fact: I love doing nothing x)
 
-
-### Connect with me:
-
-[<img align="left" alt="kud3re | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-
 <br />
 
 ### Languages and Tools:
