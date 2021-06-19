@@ -21,11 +21,14 @@
 <img align="left" alt="DiscordJS" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjasonhaxstuff.gallerycdn.vsassets.io%2Fextensions%2Fjasonhaxstuff%2Fdiscord-js-tools%2F0.0.3%2F1530824658924%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" />
 <br/>
 <br/>
+
 ### Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Adobe Photoshop 2021" width="26px" src="https://th.wizcase.com/wp-content/uploads/2020/02/Photoshop-logo.png" />
 
+<br/>
+<br/>
 
 
 ### Bizness:
