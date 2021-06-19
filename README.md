@@ -32,6 +32,9 @@
 <br/>
 <br/>
 
+### Mes languages les plus utilisés
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spkh&show_icons=true&theme=tokyonight&layout=compact">
+
 
 ### Bizness:
 
