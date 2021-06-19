@@ -4,10 +4,10 @@
 
 ## I'm a young Developer !
 
-- 🔭 I often work on Visual Studio Code
-- 🌱 I’m currently learning everything 🤣
-- 👯 I am developer of two bots
-- 🥅 2021 Goals: I would like to have a certified bot on discord
+- 🌙 I often work on Visual Studio Code
+- 📚 I’m currently learning everything 🤣
+- 🔩 I am developer of two bots
+- 💫 2021 Goals: I would like to have a certified bot on discord
 - ⚡ Fun fact: I love doing nothing x)
 <br />
 
