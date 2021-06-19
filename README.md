@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas - aka [sPkh] 👋
+### Hi there, I'm Thomas - aka [sPkh] <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kud3re?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kud3re)
 
