@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas - aka [sPkh] <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
+### Hi there, I'm Thomas - aka [sPkh] <img src="https://cdn.discordapp.com/emojis/814877275325071411.png?v=1" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kud3re?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kud3re)
 
