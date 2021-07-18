@@ -22,7 +22,7 @@
 ## Tool 🧱
 <p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" />
+<img align="left" alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F768px-Git_icon.svg.png&f=1&nofb=1" />
 </p>
 
 <br>
