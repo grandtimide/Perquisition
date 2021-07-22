@@ -4,7 +4,7 @@
 
 ## I'm a young Developer ! 💻
 - 🌙 Je travaille souvent sur Visual Studio Code
-- 📚 Je connais les langues si-dessous
+- 📚 Je connais les languages si-dessous
 - 🔩 Je suis développeur de deux bots
 - 💫 But 2021 : J'aimerais avoir un bot vérifié sur discord
 - ⚡ Fait amusant : J'aime ne rien faire x)
