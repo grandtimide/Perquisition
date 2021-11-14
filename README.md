@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/UserZill?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kud3re)
 
-## I'm a young Developer ! 💻
+## Developpeur, moi ? 💻
 - 🌙 Je travaille souvent sur Visual Studio Code
 - 💻 Amoureux de l'informatique
 - 🧠 Gros cerveau dans les deux sens
