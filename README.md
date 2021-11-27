@@ -25,6 +25,11 @@
 
 <br>
 
+## Contact me 📲
+<img align="left" alt="Telegram" width="26px" hrf="https://t.me/zillw2s" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />
+
+<br>
+
 ## Stats 🧪
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zillw2s&show_icons=true&theme=blue&layout=large">
