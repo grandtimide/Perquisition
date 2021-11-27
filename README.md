@@ -34,6 +34,6 @@
 
 ## Stats 🧪
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zillw2s&show_icons=true&theme=black&layout=large">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zillw2s&show_icons=true&theme=white&layout=large">
 <img align="down" src="https://github-readme-stats.vercel.app/api?username=zillw2s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=15151515">
 </p>
