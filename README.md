@@ -35,6 +35,6 @@
 
 ## Stats 🧪
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username={zillw2s}&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zillw2s&theme=blue-green">
 <img align="down" src="https://github-readme-stats.vercel.app/api?username=zillw2s&&show_icons=true&title_color=00000&icon_color=bb2acf&text_color=daf7dc&bg_color=1515151515">
 </p>
