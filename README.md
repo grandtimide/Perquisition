@@ -27,7 +27,7 @@
 <br>
 
 ## Me contacter 📲
-<img align="left" alt="Telegram" width="36px" href="https://t.me/zillw2s" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 <img align="left" alt="Discord" width="36px" href="https://t.me/zillw2s" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-9.png" />
 
 
