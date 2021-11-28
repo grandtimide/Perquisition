@@ -15,6 +15,7 @@
 	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/BATCH-green?http://1.bp.blogspot.com/-272_rfttVzc/VRxxwWBM1TI/AAAAAAAAByg/uGMO_TPoXKQ/s1600/cmd.png=appveyor&style=for-the-badge"
 </p>
 
 ## Outils 🧱
