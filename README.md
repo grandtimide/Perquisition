@@ -29,4 +29,5 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zillw2s&theme=blue-green">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zillw2s&theme=blue-green">
+<img src="https://starchart.cc/zillw2s/{repo}.svg"/>
 </p>
