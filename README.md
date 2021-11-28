@@ -28,7 +28,7 @@
 
 ## Me contacter 📲
 <img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zillw2s&theme=blue-green"/>
 
 
 <br>
