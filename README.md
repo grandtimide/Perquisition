@@ -31,5 +31,4 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Perquisition&theme=blue-green">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perquisition&theme=blue-green">
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/zillw2s.png" alt="TryHackMe">
 </p>
