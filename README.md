@@ -30,5 +30,5 @@
 ## Stats 🧪
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Perquisition&theme=blue-green">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perquisiton&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perquisition&theme=blue-green">
 </p>
