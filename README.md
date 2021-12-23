@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/emojis/814877275325071411.png?v=1" width="25px">
-<img align="left" src="https://profile-counter.glitch.me/zillw2s/count.svg" />
+<img align="side" src="https://profile-counter.glitch.me/zillw2s/count.svg" />
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kud3re)
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TrfFuVS8bD)
